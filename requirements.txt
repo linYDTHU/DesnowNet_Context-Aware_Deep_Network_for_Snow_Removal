@@ -1,0 +1,4 @@
+matplotlib==3.3.2
+Pillow==9.0.1
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="87470f77-0fc7-4c3e-b2a1-3c7b6c4be062" name="8106">
+        <fileTransfer rootFolder="/home/dlyang" accessType="SFTP" host="101.6.96.204" port="8106" sshConfigId="7bf70e8b-e148-4fd4-9191-6e30b2c7008d" sshConfig="dlyang@101.6.96.204:8106 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

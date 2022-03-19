@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dlyang@101.6.96.204:8105" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="8106">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dlyang@101.6.96.204:8101 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dlyang@101.6.96.204:8101 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dlyang@101.6.96.204:8105">
+        <serverdata>
+          <mappings>
+            <mapping deploy="./DesnowNet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dlyang@101.6.96.204:8105 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dlyang/DesnowNet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dlyang@101.6.96.204:8106 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dlyang/DesnowNet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yangdonglin@101.6.68.80:22 agent">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
