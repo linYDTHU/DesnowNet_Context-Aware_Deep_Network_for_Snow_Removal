@@ -14,7 +14,7 @@ from metrics import psnr, ssim
 sys.path.append('./network')
 
 if __name__ == '__main__':
-    argparser = argparse.ArgumentParser(description='Inference')
+    argparser = argparse.ArgumentParser(description='Test')
 
     argparser.add_argument(
         '--device',
@@ -67,7 +67,7 @@ if __name__ == '__main__':
     gt_root = os.path.join(args.root, 'gt')
     mask_root = os.path.join(args.root, 'mask')
     synthetic_root = os.path.join(args.root, 'synthetic')
-    dataset = snow_dataset(gt_root, mask_root, synthetic_root)
+    dataset = snow_dataset(gt_root, mask_root, synthetic_root, is_crop=False)
     data_loader = torch.utils.data.DataLoader(dataset, batch_size=5,
                                               shuffle=True,
                                               num_workers=12,
