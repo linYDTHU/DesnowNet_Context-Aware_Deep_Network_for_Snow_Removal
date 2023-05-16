@@ -24,8 +24,6 @@ The required packages can refer to requirements.txt.
   mkdir ./log
   ```
 
-- Download the checkpoint via this [link][https://cloud.tsinghua.edu.cn/f/c98046656636404788be/?dl=1] and put it into the log directory
-
 ## How to use the code?
 
 - Train
